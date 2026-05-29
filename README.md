@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygautam532-lab" alt="ygautam532-lab" /></a> </p>
 
-- 🔭 I’m currently working on [Product sales analysis](https://github.com/ygautam532-lab/Product-Sales-Analysis)
+- 🔭 I’m currently working on [https://github.com/ygautam532-lab/customer-credit-risk-and-loan-default-analysis-system)
 
 - 🌱 I’m currently learning **Python,SQL,Excel**
 
