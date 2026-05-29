@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam kumar yadav</h1>
 <h3 align="center">I am a data analyst from India</h3>
-<img align="right" alt="codding" width="400"src="https://www.freepik.com/free-photos-vectors/cartoon-programmer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygautam532-lab&label=Profile%20views&color=0e75b6&style=flat" alt="ygautam532-lab" /> </p>
 
